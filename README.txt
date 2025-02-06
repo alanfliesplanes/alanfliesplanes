@@ -1,1 +1,4 @@
-My name is Alan, an aviation student from Ireland who has been fulfilling his flying dreams from the cockpit of gliders to his sweet armchair at home, hereby also, takes place the development of a small project.
+Projects
+
+- SZD 9 Bis 1 E
+https://github.com/users/alanfliesplanes/projects/1
